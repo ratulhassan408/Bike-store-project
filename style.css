@@ -1,0 +1,139 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+#navigation-container {
+    position:;
+    background-color: #000000b0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-family: arial ;
+    padding: 5px 15px;
+    opacity: 0.7;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.img{
+    height: 50px;
+    width: 63px;
+    
+}
+
+.ecomarce-slider{
+    background-color: #6bc9ff;
+    height: 300px;
+}
+/* nav bar end  */
+
+
+
+.buttn{
+    font-family:arial ;
+}
+
+.my_custom{
+    height: 150px;
+    border-radius: 10px;
+}
+
+.marg{
+    margin-left: 5px;
+    text-align: center;
+}
+
+
+.alin_custom{
+    margin-left: 108px;
+    font-size: 20px;
+}
+.catetories-img{
+    height: 92px;
+    width: 64px;
+}
+
+.ducati{
+    border: 1px solid #027e69;
+    transition: 1.5s;
+}
+.ducati:hover{
+    background-color: #234d47;
+    color: white;
+}
+.bmw{
+    border: 1px solid #d0e700;
+    transition: 1.5s;
+}
+.bmw:hover{
+    background-color: #E78100;
+    color: white;
+}
+.honda{
+    border: 1px solid #209bff;
+    transition: 1.5s;
+}
+.honda:hover{
+    background-color: #000000;
+    color: grey;
+}
+.submt{
+    border: 1px solid red;
+    transition: 1.5s;
+}
+.submt:hover{
+    background-color: red;
+    font-family: inherit;
+    color: #bebfc0;
+}
+
+
+
+.font{
+    font-size: 1.5rem;
+}
+
+.ducati_0{
+    height: 147px;
+}
+
+.ducati-01{
+    background-color: #ff0000;
+}
+
+.BMW_0{
+    height: 147px;
+}
+
+.BMW_1{
+    background-color: #002cf0;
+}
+.honda_0{
+    height: 146px;
+}
+
+.honda_1{
+    background-color: #000000;
+}
+.card-img-top{
+    height: 178px;
+}
